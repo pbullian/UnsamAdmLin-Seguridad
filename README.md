@@ -1,4 +1,5 @@
 # Laboratorio Seguridad en GNU/Linux
+## Firewall
 
 Utilizando la maquina virtual 0wn3d brindada ejecute los siguientes ejercicios. Cada ejercicio se debe verificar con NMAP.
 
@@ -9,6 +10,8 @@ Utilizando la maquina virtual 0wn3d brindada ejecute los siguientes ejercicios. 
 5. Permita el acceso SSH solo desde la IP de la maquina guest.
 6. Configure el firewall para que el trafico saliente sea restrictivo.
 7. Permita el ping desde la maquina hacia cualquier host de internet.
+
+## WAF
 
 Utilizando los containers:
 - [docker-vulnerable-dvwa](https://github.com/opsxcq/docker-vulnerable-dvwa) 
